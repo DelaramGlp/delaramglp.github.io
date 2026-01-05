@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll-sass-converter', "~> 5.0"
+gem 'jekyll-sass-converter', "~> 3.1"
 
 group :jekyll_plugins do
     gem 'jekyll'
