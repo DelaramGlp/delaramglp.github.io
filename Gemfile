@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
+gem 'jekyll-sass-converter', '~> 2.2'
 
-gem 'jekyll'
-
-# Core plugins that directly affect site building
 group :jekyll_plugins do
+    gem 'jekyll'
     gem 'jekyll-archives-v2'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
