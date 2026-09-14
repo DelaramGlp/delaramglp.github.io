@@ -1,0 +1,9 @@
+---
+title: "An open knowledge graph-based approach for mapping concepts and requirements between the EU AI Act and international standards"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-01-01-an-open-knowledge-graph-based-approach-for-mapping-concepts-and-requirements-bet
+date: 2025-01-01
+venue: 'AI and Ethics'
+citation: 'J. Hernandez, D. Golpayegani, D. Lewis. (2025). &quot;An open knowledge graph-based approach for mapping concepts and requirements between the EU AI Act and international standards.&quot; <i>AI and Ethics</i>.'
+---

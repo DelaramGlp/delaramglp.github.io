@@ -1,0 +1,8 @@
+---
+title: "Towards a Taxonomy of AI Risks in the Health Domain"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-01-01-towards-a-taxonomy-of-ai-risks-in-the-health-domain
+date: 2022-01-01
+citation: 'D. Golpayegani, J. Hovsha, L. Rossmaier, R. Saniei, J. Misic. (2022). &quot;Towards a Taxonomy of AI Risks in the Health Domain.&quot;'
+---
