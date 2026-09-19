@@ -26,9 +26,9 @@ author:
   avatar           : "DelaramGolpayegani.jpeg"
   name             : "Dr. Delaram Golpayagni "
   pronouns         : "she/her"  
-  bio              : "PhD in Computer Science"
-  location         : "Ireland"
-  employer         : "Trinity College Dublin"
+  bio              : "Research Fellow at ADAPT Centre, Trinity College Dublin"
+  location         : #"Ireland"
+  employer         : #"Trinity College Dublin"
   uri              : # URL
   email            : "delaram.golpayegani@adaptcentre.ie" 
 
