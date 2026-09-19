@@ -39,11 +39,28 @@ See the full list on the [Publications page](/publications/).
 
 
 
-## Awards
+## Awards and Nominations
 
-* **2025** — Best Overall Contribution Award, ADAPT Scientific Conference (ASC 2025)
-* **2023** — Standard+Innovation Award, National Standardisation Authority of Ireland (NSAI)
+* **2023** — Standard+Innovation Award, National Standards Authority of Ireland (NSAI)
 * **2023** — Nominee, Standard+Innovation Award in the individual researcher category, CEN-CENELEC
-* **2023** — Best Student Contribution Award, ADAPT Scientific Conference (ASC 2023), for the paper "To Be High-Risk, or Not To Be—Semantic Specifications for the AI Act's High-Risk AI Applications"
-* **2022** — Best Student Contribution Award, ADAPT Scientific Conference (ASC 2022), for the paper "AIRO: An Ontology for Representing AI Risks"
+* **2024** — Nominee, Best Poster Award, SEMANTiCS, for the paper "AIUP: an ODRL Profile for Expressing AI Use Policies to Support the EU AI Act"
+* **2025** — Trinity Woman in STEM, nominated by students at Trinity College Dublin
+
+* **2025** — Best Overall Contribution Award, ADAPT Annual Scientific Conference (AASC 2025)
+* **2023** — Best Student Contribution Award, ADAPT Annual Scientific Conference (AASC 2023)
+* **2022** — Best Student Contribution Award, ADAPT Scientific Conference (AASC 2022)
 * **2020** — Marie Skłodowska-Curie Fellowship, as part of the EU-funded project PROTECT
+
+## Groups and Memberships
+
+* **2021 - Ongoing** — National Standards Authority of Ireland (NSAI), Technical Committee (TC) 02/SubCommittee (SC) 18 on Artificial Intelligence
+* **2021 - Ongoing** — CEN-CENELEC Joint Technical Committee (JTC) 21 on Artificial Intelligence
+* **2021 - Ongoing** — ISO/IEC JTC 1/SC 42 on Artificial Intelligence
+* **2022 - Ongoing** — W3C Data Privacy Vocabularies and Controls Community Group (DPVCG)
+* **2023 - Ongoing** — AI, Algorithmic and Automation Incidents and Controversies (AIAAIC) Community Group
+* **2022 - Ongoing** — GEDI (Gender, Equality, Diversity and Inclusion) committee, ADAPT Centre
+* **2024 - 2025** — The EU AI Office Code of Practice for General-Purpose AI Working Groups
+* **2022 - 2023** — Citizens' Think-Ins team, ADAPT Centre
+
+
+
