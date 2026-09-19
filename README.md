@@ -1,9 +1,8 @@
 # delaramglp.github.io
 
-Personal academic website of Delaram Golpayegani, built with Jekyll and hosted on GitHub Pages.
+Personal academic website of Delaram Golpayegani.
 
-Built on the [Academic Pages](https://academicpages.github.io/) template, which is based on the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.
-
+Built on the [Academic Pages](https://academicpages.github.io/) template.
 ## Running locally
 
 ```bash
